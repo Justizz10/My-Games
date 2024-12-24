@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 45fd2326e43babb468119d70b8b8ba96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3431235834977752114
+    second: flappyfont_0
+  - first:
+      213: -8034918050509849158
+    second: flappyfont_1
+  - first:
+      213: -3505839045818134140
+    second: flappyfont_2
+  - first:
+      213: 8392899872126874075
+    second: flappyfont_3
+  - first:
+      213: 5008861549155106376
+    second: flappyfont_4
+  - first:
+      213: 7250571842095398103
+    second: flappyfont_5
+  - first:
+      213: 6290763476402190545
+    second: flappyfont_6
+  - first:
+      213: 3938479844770729945
+    second: flappyfont_7
+  - first:
+      213: -3889557243674344491
+    second: flappyfont_8
+  - first:
+      213: -8317730611633487008
+    second: flappyfont_9
+  - first:
+      213: -7487130669543896542
+    second: flappyfont_10
+  - first:
+      213: 4232881494674235708
+    second: flappyfont_11
+  - first:
+      213: -6618078941523230642
+    second: flappyfont_12
+  - first:
+      213: 4709627305242330269
+    second: flappyfont_13
+  - first:
+      213: -8492550812756564737
+    second: flappyfont_14
+  - first:
+      213: 3126301510002213514
+    second: flappyfont_15
+  - first:
+      213: 5325920180205974088
+    second: flappyfont_16
+  - first:
+      213: 4101257121809982455
+    second: flappyfont_17
+  - first:
+      213: 3793390239146882374
+    second: flappyfont_18
+  - first:
+      213: 5305505946803659731
+    second: flappyfont_19
+  - first:
+      213: -7345193569968803728
+    second: flappyfont_20
+  - first:
+      213: -2171382094658094357
+    second: flappyfont_21
+  - first:
+      213: 7531801709672977111
+    second: flappyfont_22
+  - first:
+      213: 7185635475238677378
+    second: flappyfont_23
+  - first:
+      213: 1135970694948565952
+    second: flappyfont_24
+  - first:
+      213: -7356523760723918099
+    second: flappyfont_25
+  - first:
+      213: -5137299444434188368
+    second: flappyfont_26
+  - first:
+      213: 7889319811423172709
+    second: flappyfont_27
+  - first:
+      213: -3183413195358883838
+    second: flappyfont_28
+  - first:
+      213: 3515363261534631223
+    second: flappyfont_29
+  - first:
+      213: -1285063291682906806
+    second: flappyfont_30
+  - first:
+      213: 8510655296663840722
+    second: flappyfont_31
+  - first:
+      213: 7444516014443285288
+    second: flappyfont_32
+  - first:
+      213: -390213945866879490
+    second: flappyfont_33
+  - first:
+      213: -4289789457991262755
+    second: flappyfont_34
+  - first:
+      213: 354489682619584177
+    second: flappyfont_35
+  - first:
+      213: 5856646078929117751
+    second: flappyfont_36
+  - first:
+      213: -8338576599922772457
+    second: flappyfont_37
+  - first:
+      213: -6928322170884359087
+    second: flappyfont_38
+  - first:
+      213: -1778788279915961119
+    second: flappyfont_39
+  - first:
+      213: 9049604496454418332
+    second: flappyfont_40
+  - first:
+      213: 124897284999060630
+    second: flappyfont_41
+  - first:
+      213: -2273168138631498706
+    second: flappyfont_42
+  - first:
+      213: 2290758738995273077
+    second: flappyfont_43
+  - first:
+      213: 2217735889934501882
+    second: flappyfont_44
+  - first:
+      213: 5459479181152063737
+    second: flappyfont_45
+  - first:
+      213: 8359616866101257423
+    second: flappyfont_46
+  - first:
+      213: 1781328746255367591
+    second: flappyfont_47
+  - first:
+      213: 6326120300924548714
+    second: flappyfont_48
+  - first:
+      213: -8988750134269012205
+    second: flappyfont_49
+  - first:
+      213: -6204589103156562521
+    second: flappyfont_50
+  - first:
+      213: 5562720182098765223
+    second: flappyfont_51
+  - first:
+      213: 1786389995295086663
+    second: flappyfont_52
+  - first:
+      213: -5794659040703820357
+    second: flappyfont_53
+  - first:
+      213: 6520745063171310929
+    second: flappyfont_54
+  - first:
+      213: 3832881249070257165
+    second: flappyfont_55
+  - first:
+      213: -2791275512792658217
+    second: flappyfont_56
+  - first:
+      213: 7634856596390766845
+    second: flappyfont_57
+  - first:
+      213: 8643049131665138753
+    second: flappyfont_58
+  - first:
+      213: -5547363566651686499
+    second: flappyfont_59
+  - first:
+      213: 2277153074412679520
+    second: flappyfont_60
+  - first:
+      213: 2750318884310080150
+    second: flappyfont_61
+  - first:
+      213: -804006548069273894
+    second: flappyfont_62
+  - first:
+      213: -5344171410267876539
+    second: flappyfont_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flappyfont_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 446
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234907cffc23e9f20800000000000000
+      internalID: 3431235834977752114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 381
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd7cf79a9c3e7090800000000000000
+      internalID: -8034918050509849158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 446
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481d05a66f1c85fc0800000000000000
+      internalID: -3505839045818134140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 381
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd13b8957f1997470800000000000000
+      internalID: 8392899872126874075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 381
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84eb0867a0d038540800000000000000
+      internalID: 5008861549155106376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 446
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcbb8adca43f9460800000000000000
+      internalID: 7250571842095398103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 446
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d834f84d084d4750800000000000000
+      internalID: 6290763476402190545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 386
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df48964d8a48a630800000000000000
+      internalID: 3938479844770729945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_8
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 446
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d34e3d6b44850ac0800000000000000
+      internalID: -3889557243674344491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 381
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0638134f31c719c80800000000000000
+      internalID: -8317730611633487008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_10
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 446
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a47e6135e581890800000000000000
+      internalID: -7487130669543896542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_11
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 381
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31e16aea473eba30800000000000000
+      internalID: 4232881494674235708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_12
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 446
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40c30b444cd724a0800000000000000
+      internalID: -6618078941523230642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 381
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d940379d415fb5140800000000000000
+      internalID: 4709627305242330269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_14
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 381
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4a0b00806642a80800000000000000
+      internalID: -8492550812756564737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_15
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 446
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a820374d8aad26b20800000000000000
+      internalID: 3126301510002213514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_16
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 381
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842f24b9f2879e940800000000000000
+      internalID: 5325920180205974088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_17
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 446
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f366067f979ae830800000000000000
+      internalID: 4101257121809982455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 321
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645b8c20354d4a430800000000000000
+      internalID: 3793390239146882374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 256
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d364f08c81f0a940800000000000000
+      internalID: 5305505946803659731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 316
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070b6875d51a01a90800000000000000
+      internalID: -7345193569968803728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 316
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beab2484d73bdd1e0800000000000000
+      internalID: -2171382094658094357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 321
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2dcbfefb5568860800000000000000
+      internalID: 7531801709672977111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 256
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28beb03c46188b360800000000000000
+      internalID: 7185635475238677378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 316
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3b9a31457c3cf00800000000000000
+      internalID: 1135970694948565952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_25
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 316
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2845cbd9068e990800000000000000
+      internalID: -7356523760723918099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_26
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 316
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b740b5bf55a4b8b0800000000000000
+      internalID: -5137299444434188368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_27
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 316
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568745fa19e7c7d60800000000000000
+      internalID: 7889319811423172709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_28
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 316
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200b755b09e32d3d0800000000000000
+      internalID: -3183413195358883838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735fa3cd24419c030800000000000000
+      internalID: 3515363261534631223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_30
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 256
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d9859aeb98a2ee0800000000000000
+      internalID: -1285063291682906806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 196
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7e173a6ebeb1670800000000000000
+      internalID: 8510655296663840722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_32
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 256
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b49955fdb305760800000000000000
+      internalID: 7444516014443285288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_33
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 196
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd7332db7ea59af0800000000000000
+      internalID: -390213945866879490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_34
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 251
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd173b573b9774c0800000000000000
+      internalID: -4289789457991262755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_35
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 246
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bec419fc766be400800000000000000
+      internalID: 354489682619584177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_36
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 251
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73221c5349cf64150800000000000000
+      internalID: 5856646078929117751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_37
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 251
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716f73513cc674c80800000000000000
+      internalID: -8338576599922772457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 126
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c79f281b7a9df90800000000000000
+      internalID: -6928322170884359087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_39
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 131
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e42bfcdb797057e0800000000000000
+      internalID: -1778788279915961119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_40
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 131
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f71f8b757a69d70800000000000000
+      internalID: 9049604496454418332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_41
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 131
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c97c14b69bbb100800000000000000
+      internalID: 124897284999060630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_42
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 186
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2432262f951470e0800000000000000
+      internalID: -2273168138631498706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_43
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 121
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d5fe7afe86acf10800000000000000
+      internalID: 2290758738995273077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_44
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 181
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af74e25ba0bf6ce10800000000000000
+      internalID: 2217735889934501882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_45
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 186
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f09533c367f3cb40800000000000000
+      internalID: 5459479181152063737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_46
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 121
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc46452af33530470800000000000000
+      internalID: 8359616866101257423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_47
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 186
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad3ebc8e0d88b810800000000000000
+      internalID: 1781328746255367591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_48
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 121
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66befe75e4eac750800000000000000
+      internalID: 6326120300924548714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 186
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3179628906b814380800000000000000
+      internalID: -8988750134269012205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 61
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5f711851fd4e9a0800000000000000
+      internalID: -6204589103156562521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_51
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 66
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5a4e67880c23d40800000000000000
+      internalID: 5562720182098765223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_52
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 66
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74810eb6c388ac810800000000000000
+      internalID: 1786389995295086663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 66
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdc75ccd4c359fa0800000000000000
+      internalID: -5794659040703820357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_54
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 56
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155453926175e7a50800000000000000
+      internalID: 6520745063171310929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_55
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 116
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0496154031213530800000000000000
+      internalID: 3832881249070257165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_56
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 51
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de4fbdb5b56349d0800000000000000
+      internalID: -2791275512792658217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_57
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 56
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df86bea8f9574f960800000000000000
+      internalID: 7634856596390766845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_58
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 56
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1442625746742f770800000000000000
+      internalID: 8643049131665138753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9148c13a3ec303b0800000000000000
+      internalID: -5547363566651686499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_60
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 6
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0617e8308a21a9f10800000000000000
+      internalID: 2277153074412679520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_61
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ad95614781b2620800000000000000
+      internalID: 2750318884310080150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_62
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade2e39ed4897d4f0800000000000000
+      internalID: -804006548069273894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappyfont_63
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 7
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5435f20ca60b5d5b0800000000000000
+      internalID: -5344171410267876539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      flappyfont_0: 3431235834977752114
+      flappyfont_1: -8034918050509849158
+      flappyfont_10: -7487130669543896542
+      flappyfont_11: 4232881494674235708
+      flappyfont_12: -6618078941523230642
+      flappyfont_13: 4709627305242330269
+      flappyfont_14: -8492550812756564737
+      flappyfont_15: 3126301510002213514
+      flappyfont_16: 5325920180205974088
+      flappyfont_17: 4101257121809982455
+      flappyfont_18: 3793390239146882374
+      flappyfont_19: 5305505946803659731
+      flappyfont_2: -3505839045818134140
+      flappyfont_20: -7345193569968803728
+      flappyfont_21: -2171382094658094357
+      flappyfont_22: 7531801709672977111
+      flappyfont_23: 7185635475238677378
+      flappyfont_24: 1135970694948565952
+      flappyfont_25: -7356523760723918099
+      flappyfont_26: -5137299444434188368
+      flappyfont_27: 7889319811423172709
+      flappyfont_28: -3183413195358883838
+      flappyfont_29: 3515363261534631223
+      flappyfont_3: 8392899872126874075
+      flappyfont_30: -1285063291682906806
+      flappyfont_31: 8510655296663840722
+      flappyfont_32: 7444516014443285288
+      flappyfont_33: -390213945866879490
+      flappyfont_34: -4289789457991262755
+      flappyfont_35: 354489682619584177
+      flappyfont_36: 5856646078929117751
+      flappyfont_37: -8338576599922772457
+      flappyfont_38: -6928322170884359087
+      flappyfont_39: -1778788279915961119
+      flappyfont_4: 5008861549155106376
+      flappyfont_40: 9049604496454418332
+      flappyfont_41: 124897284999060630
+      flappyfont_42: -2273168138631498706
+      flappyfont_43: 2290758738995273077
+      flappyfont_44: 2217735889934501882
+      flappyfont_45: 5459479181152063737
+      flappyfont_46: 8359616866101257423
+      flappyfont_47: 1781328746255367591
+      flappyfont_48: 6326120300924548714
+      flappyfont_49: -8988750134269012205
+      flappyfont_5: 7250571842095398103
+      flappyfont_50: -6204589103156562521
+      flappyfont_51: 5562720182098765223
+      flappyfont_52: 1786389995295086663
+      flappyfont_53: -5794659040703820357
+      flappyfont_54: 6520745063171310929
+      flappyfont_55: 3832881249070257165
+      flappyfont_56: -2791275512792658217
+      flappyfont_57: 7634856596390766845
+      flappyfont_58: 8643049131665138753
+      flappyfont_59: -5547363566651686499
+      flappyfont_6: 6290763476402190545
+      flappyfont_60: 2277153074412679520
+      flappyfont_61: 2750318884310080150
+      flappyfont_62: -804006548069273894
+      flappyfont_63: -5344171410267876539
+      flappyfont_7: 3938479844770729945
+      flappyfont_8: -3889557243674344491
+      flappyfont_9: -8317730611633487008
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
