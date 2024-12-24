@@ -1,0 +1,69 @@
+using Unity.VisualScripting;
+using UnityEngine;
+using UnityEngine.UI;
+
+public class GameManager : MonoBehaviour
+{
+    public Player player;
+    public Text scoreText;
+    public GameObject playButton;
+    public GameObject flappyBird;
+    public GameObject gameOver;
+    private int score;
+
+    private void Awake()
+    {
+        Application.targetFrameRate = 60;
+
+        Pause();
+    }
+
+    public void Play()
+    {
+        score = 0;
+        scoreText.text = score.ToString();
+        
+        playButton.SetActive(false);
+        flappyBird.SetActive(false);
+        gameOver.SetActive(false);
+
+        Time.timeScale = 1f;
+        player.enabled = true;
+
+        pipes[] Pipes = FindObjectsByType<pipes>(FindObjectsSortMode.None);
+
+        for (int i = 0; i < Pipes.Length; i++) {
+            Destroy(Pipes[i].gameObject);
+        }
+    }
+    
+
+    public void Pause()
+    {
+        Time.timeScale = 0f;
+        player.enabled = false;
+    }
+    
+    public void FlappyBird()
+    {
+        playButton.SetActive(true);
+        flappyBird.SetActive(true);
+        Pause();
+    }
+    
+    public void GameOver()
+    {
+        gameOver.SetActive(true);
+        playButton.SetActive(true);
+        Pause();
+    }
+
+
+    public void IncreaseScore()
+    {
+        score++;
+        scoreText.text = score.ToString();
+    }
+    
+}
+    
